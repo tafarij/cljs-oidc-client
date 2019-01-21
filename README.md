@@ -1,2 +1,2 @@
-# cljs-oidc-client
-Pure ClojureScript client for implicit OIDC authentication
+# re-frame-oidc
+A re-frame package for managing OIDC authentication.

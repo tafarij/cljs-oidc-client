@@ -1,0 +1,3 @@
+{
+  "calva.startCLJSREPLCommand": "(require 'cljs.repl.nashorn) (cider.piggieback/cljs-repl (cljs.repl.nashorn/repl-env))"
+}
